@@ -22,9 +22,9 @@ class AccessRecords
 			node *right_child; //Pointer to right child node in tree
 			node(){}           //First Constructor
 			node(int acct_number1, string last_name1, char middle_initial1, string first_name1, 
-				 unsigned int month1, unsigned int day1, unsigned int year1, float annual_salary1, 
-				 char dept_code1, string phone_number1, node *left_child1 = NULL, 
-				 node *right_child1 = NULL)
+			     unsigned int month1, unsigned int day1, unsigned int year1, float annual_salary1, 
+			     char dept_code1, string phone_number1, node *left_child1 = NULL, 
+			     node *right_child1 = NULL)
 			{
 				acct_number = acct_number1;
 				last_name = last_name1;
@@ -55,7 +55,7 @@ class AccessRecords
 			//Insert Recieved Data into Binary Tree by Account #
 			void Insert(node *& PtrRoot,int acct_number2, string last_name2, char middle_initial2, 
 			            string first_name2, unsigned int month2, unsigned int day2, unsigned int year2, 
-						float annual_salary2, char dept_code2, string phone_number2);
+				    float annual_salary2, char dept_code2, string phone_number2);
 			//Convert The Month # into Abbreviation
 			string DateConversion(int);
 			//Print Subtitles for Out Files
@@ -68,11 +68,11 @@ class AccessRecords
 			void PrintPreOrder(ostream& OutF, node *);
 			//Print Report in Post-Order Form
 			void PrintPostOrder(ostream& OutF, node *);
-		    //QuickSort Function
-		    void QuickSort(vector<string> &Last_Name3, vector<char> &First_Initial3, vector<float> &Annual_Salary3, 
-						   vector<string> &Phone_Number3, vector<char> &Department_Code3, int low, int high);
+		        //QuickSort Function
+		        void QuickSort(vector<string> &Last_Name3, vector<char> &First_Initial3, vector<float> &Annual_Salary3, 
+				       vector<string> &Phone_Number3, vector<char> &Department_Code3, int low, int high);
 			//Partition sorts the vectors according to the Last Names
-            int Partition(vector<string>&, vector<char>&, vector<float>&, vector<string>&, vector<char>&, int, int);
+                        int Partition(vector<string>&, vector<char>&, vector<float>&, vector<string>&, vector<char>&, int, int);
 			//Print Report That Used The QuickSort Algorithm
 			void PrintQuickSort(ostream& OutF);
 };//class AccessRecords
