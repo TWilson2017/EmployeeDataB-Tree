@@ -1,4 +1,4 @@
-							Employee Data Program Using Binary Trees in C++ 
+					Employee Data Program Using Binary Trees in C++ 
 								
 Write a C++ program that inputs an unknown number of records stroed on a sequential file.
 Write a C++ program to insert the records into a Binary Tree by account number. Then, print 
