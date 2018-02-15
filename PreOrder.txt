@@ -1,0 +1,57 @@
+                                   Employee Report
+
+Acct#    Last Name   First Name    Date of birth      Annual Salary       Department Code
+786       Smith        Jack       Dec. 9, 1989      	$45600.00             	Q
+121       Harry        Moss       Jan. 3, 2014      	$10000.00             	V
+120       Sally         May        May 19, 1999      	$20303.00             	T
+111        Kell       Mosse       Jan. 30, 2016      	$89080.90             	H
+021       Harry        Moss       Jan. 3, 2014      	$10000.00             	V
+032        Jack       Ellis       Oct. 18, 2014      	$19393.00             	A
+101       Harry        Moss       Jan. 3, 2014      	$10000.00             	V
+116        Kell       Mosse       Jan. 30, 2016      	$89080.90             	H
+400        Keyy        Mack       Nov. 8, 2009      	$19929.00             	A
+323        Jack       Ellis       Oct. 18, 2014      	$19393.00             	A
+311        Kiss       Marry       Apr. 19, 2000      	$45090.00             	C
+126       Harry        Moss       Jan. 3, 2014      	$10000.00             	V
+124       Sally         May        May 19, 1999      	$20303.00             	T
+151       Harry        Moss       Jan. 3, 2014      	$10000.00             	V
+130       Sally         May        May 19, 1999      	$20303.00             	T
+350       Uless          Ti       Feb. 19, 2011      	$30930.00             	B
+353        Jack       Ellis       Oct. 18, 2014      	$19393.00             	A
+390       Uless          Ti       Feb. 19, 2011      	$30930.00             	B
+411        Kiss       Marry       Apr. 19, 2000      	$45090.00             	C
+405        Keyy        Mack       Nov. 8, 2009      	$19929.00             	A
+586       Smith        Jack       Dec. 9, 1989      	$45600.00             	Q
+420       Sally         May        May 19, 1999      	$20303.00             	T
+523        Jack       Ellis       Oct. 18, 2014      	$19393.00             	A
+471        Kiss       Marry       Apr. 19, 2000      	$45090.00             	C
+623        Mark        Jill       Jan. 15, 2011      	$9903.00             	H
+650       Uless          Ti       Feb. 19, 2011      	$30930.00             	B
+784        Peet        Post       Nov. 29, 2016      	$12129.90             	T
+777        Peet        Post       Nov. 29, 2016      	$12129.90             	T
+736       Smith        Jack       Dec. 9, 1989      	$45600.00             	Q
+785       Smith        Jack       Dec. 9, 1989      	$45600.00             	Q
+923        Mark        Jill       Jan. 15, 2011      	$9903.00             	H
+808        Isac       Trina       Jun. 23, 1989      	$65095.00             	Z
+787        Peet        Post       Nov. 29, 2016      	$12129.90             	T
+789        Peet        Post       Nov. 29, 2016      	$12129.90             	T
+788       Smith        Jack       Dec. 9, 1989      	$45600.00             	Q
+900        Keyy        Mack       Nov. 8, 2009      	$19929.00             	A
+898        Isac       Trina       Jun. 23, 1989      	$65095.00             	Z
+908        Isac       Trina       Jun. 23, 1989      	$65095.00             	Z
+920        Mark        Jill       Jan. 15, 2011      	$9903.00             	H
+950     Jenkins        Hael       Jul. 19, 2012      	$78598.00             	F
+1050     Jenkins        Hael       Jul. 19, 2012      	$78598.00             	F
+963        Mark        Jill       Jan. 15, 2011      	$9903.00             	H
+960     Jenkins        Hael       Jul. 19, 2012      	$78598.00             	F
+1111        Kell       Mosse       Jan. 30, 2016      	$89080.90             	H
+3506       Uless          Ti       Feb. 19, 2011      	$30930.00             	B
+4114        Kiss       Marry       Apr. 19, 2000      	$45090.00             	C
+8085        Isac       Trina       Jun. 23, 1989      	$65095.00             	Z
+9504     Jenkins        Hael       Jul. 19, 2012      	$78598.00             	F
+
+
+
+
+
+Total Records Processed: 50
