@@ -16,8 +16,8 @@ using namespace std;
 
 int main()
 {
-	//Declare Variables
-	AccessRecords Data; 
+   //Declare Variables
+   AccessRecords Data; 
 
    //-| ----------------------------------------------------------------------
    //-| Print the copyright notice declaring authorship.
